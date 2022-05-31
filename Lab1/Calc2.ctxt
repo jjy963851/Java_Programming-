@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=Calc2
-comment1.params=x\ y
-comment1.target=int\ Change(int,\ int)
-comment2.params=x\ y
-comment2.target=java.lang.String\ Change2(java.lang.String,\ java.lang.String)
-numComments=3
